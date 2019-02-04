@@ -11,7 +11,7 @@ function groceries(index){
 	var containerdiv = document.createElement("div");
 	var imgdiv = document.createElement("div");
 	var data = document.createElement("div");
-	var c = document.createTextNode(grocery[index].price)
+	var c = document.createTextNode(grocery[index].price);
 	var a = document.createElement("img");
 	a.setAttribute("src", grocery[index].image);
 	a.setAttribute("class", "image");

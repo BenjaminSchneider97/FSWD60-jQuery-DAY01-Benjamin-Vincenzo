@@ -12,7 +12,7 @@ $(document).ready(function(){
 
 	var array = ["New Template", "Order Template", "Contact Us"];
 		for(i=0; i < array.length; i++){
-			$(".sidemenu").append("<li><a href='http://all-free-download.com/free-website-templates/'>" + array[i] + "</a></li>");
+			$(".sidemenu:first").append("<li><a href='http://all-free-download.com/free-website-templates/'>" + array[i] + "</a></li>");
 		}
 
 	$("a[href]").attr("href", "http://www.codefactory.wien/");
