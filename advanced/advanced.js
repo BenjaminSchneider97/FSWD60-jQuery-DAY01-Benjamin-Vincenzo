@@ -7,6 +7,13 @@ $(document).ready(function(){
 		"background-color" : "orange",
 		"font-style" : "italic"
 		});
+	$("#logo").css("color","black");
+	$(".gray").css("color", "white");
+	$(".date").remove();
+
+	var threeList = $("<li>New Templates</li>");
+	$(".sidemnu").append(threeList);
+
 });
 
 
