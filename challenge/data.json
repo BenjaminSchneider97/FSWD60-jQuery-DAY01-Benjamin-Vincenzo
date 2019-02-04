@@ -1,0 +1,6 @@
+grocery=[{
+	"item": "banana",
+	"price": "1€",
+	"stock": "3000",
+	"image": "",
+}];
