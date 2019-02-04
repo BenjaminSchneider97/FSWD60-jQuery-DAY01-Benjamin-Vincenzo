@@ -1,5 +1,4 @@
 $(document).ready(function(){
-	$("a[href]").attr("href", "http://www.codefactory.wien/");
 	$("code").css("color","red");
 	$("ol>li").css("background-color", "#2a7b90");
 	$("form>p>textarea").attr("placeholder", "Express your opinion");
@@ -11,9 +10,10 @@ $(document).ready(function(){
 	$(".gray").css("color", "white");
 	$(".date").remove();
 
-	var threeList = $("<li>New Templates</li>");
-	$(".sidemnu").append(threeList);
+	var threeList = $("<li><a href='http://all-free-download.com/free-website-templates/'>New Template</a></li>");
+	$(".sidemenu").append(threeList);
 
+	$("a[href]").attr("href", "http://www.codefactory.wien/");
 });
 
 
