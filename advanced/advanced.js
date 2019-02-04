@@ -10,8 +10,10 @@ $(document).ready(function(){
 	$(".gray").css("color", "white");
 	$(".date").remove();
 
-	var threeList = $("<li><a href='http://all-free-download.com/free-website-templates/'>New Template</a></li>");
-	$(".sidemenu").append(threeList);
+	var array = ["New Template", "Order Template", "Contact Us"];
+		for(i=0; i < array.length; i++){
+			$(".sidemenu").append("<li><a href='http://all-free-download.com/free-website-templates/'>" + array[i] + "</a></li>");
+		}
 
 	$("a[href]").attr("href", "http://www.codefactory.wien/");
 });
