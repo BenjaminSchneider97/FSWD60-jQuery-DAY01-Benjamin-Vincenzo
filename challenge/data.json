@@ -1,40 +1,40 @@
 grocery=[{
 	"item": "banana",
-	"price": "1€",
+	"price": "1$",
 	"stock": "3000",
 	"image": "img/banana.jpg"
 },
 	{
 	"item": "orange",
-	"price": "2€",
+	"price": "2$",
 	"stock": "2000",
 	"image": "img/orange.jpg"
 	},
 	
 {
 	"item": "eggs",
-	"price": "0,50€",
+	"price": "0,50$",
 	"stock": "3000",
 	"image": "img/eggs.jpg"
 	},
 	
 {
 	"item": "bread",
-	"price": "3€",
+	"price": "3$",
 	"stock": "400",
 	"image": "img/bread.jpg"
 	},
 	
 {
 	"item": "butter",
-	"price": "2€",
+	"price": "2$",
 	"stock": "3000",
 	"image": "img/butter.jpg"
 	},
 	
 {
 	"item": "sausage",
-	"price": "3€",
+	"price": "3$",
 	"stock": "100",
 	"image": "img/sausage.jpg"
 	},
