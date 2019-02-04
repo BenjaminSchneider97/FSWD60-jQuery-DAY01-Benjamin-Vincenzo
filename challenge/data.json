@@ -2,47 +2,47 @@ grocery=[{
 	"item": "banana",
 	"price": "1€",
 	"stock": "3000",
-	"image": ""
+	"image": "img/banana.jpg"
 },
 	{
 	"item": "orange",
 	"price": "2€",
 	"stock": "2000",
-	"image": ""
+	"image": "img/orange.jpg"
 	},
 	
 {
 	"item": "eggs",
 	"price": "0,50€",
 	"stock": "3000",
-	"image": ""
+	"image": "img/eggs.jpg"
 	},
 	
 {
 	"item": "bread",
 	"price": "3€",
 	"stock": "400",
-	"image": ""
+	"image": "img/bread.jpg"
 	},
 	
 {
 	"item": "butter",
 	"price": "2€",
 	"stock": "3000",
-	"image": ""
+	"image": "img/butter.jpg"
 	},
 	
 {
 	"item": "sausage",
 	"price": "3€",
 	"stock": "100",
-	"image": ""
+	"image": "img/sausage.jpg"
 	},
 	
 {
 	"item": "cowboyboots",
 	"price": "100$",
 	"stock": "10000",
-	"image": ""
+	"image": "img/cowboyboots.jpg"
 }
 ];
