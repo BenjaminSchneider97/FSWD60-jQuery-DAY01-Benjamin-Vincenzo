@@ -16,6 +16,7 @@ $(document).ready(function(){
 		}
 
 	$("a[href]").attr("href", "http://www.codefactory.wien/");
+	$("#sidebar p:first").text('"When someone says: "I want a programming language in which I need only to say what I wish, and done", give him a lollipop."');
 });
 
 
